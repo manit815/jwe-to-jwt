@@ -1,0 +1,26 @@
+{
+  "name": "jwe-to-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manit815/jwe-to-jwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manit815/jwe-to-jwt/issues"
+  },
+  "homepage": "https://github.com/manit815/jwe-to-jwt#readme",
+  "dependencies": {
+    "generate-rsa-keypair": "^0.2.1",
+    "jose": "^3.12.2"
+  },
+  "devDependencies": {
+    "node-jose": "^2.0.0"
+  }
+}
